@@ -1,3 +1,2 @@
-# algos
-Algorithms and so..
-Playing with algorithms
+# Algorithms and so
+playing with algorithms
