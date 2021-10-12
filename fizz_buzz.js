@@ -1,5 +1,5 @@
 /* Create a function that recreates the FizzBuzz word game which accepts a parameter n. 
-Return a nicely formatted string with all elements. Make it easier to read. */ 
+Return a nicely formatted string with all elements (make it easier to read). */ 
 
 function fizzBuzz(n){
     if (typeof n === 'number' && n>0){
